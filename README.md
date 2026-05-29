@@ -45,9 +45,8 @@ Win11Atlas does not require installation. It is a project that can be used direc
 
 To use the reference:
 
-1. Browse the repository sections for CMD or PowerShell content.  
-2. Open any command entry to view syntax, examples, and notes.  
-3. Use the examples as a guide when working in Command Prompt or PowerShell.
+1. Browse the repository sections for CMD or PowerShell content.   
+2. Use the examples as a guide when working in Command Prompt or PowerShell.
 
 ## How to Read Command Syntax
 
@@ -74,6 +73,8 @@ Even experienced users run into common issues. Here are some frequent pitfalls:
 
 - **Running commands without elevated permissions**  
   Many administrative commands require an elevated Command Prompt or PowerShell session.
+  
+  <img width="247" height="36" alt="Command" src="https://github.com/user-attachments/assets/9f0e7527-36b0-4a69-a8d2-cbbf91e52d41" />
 
 - **Incorrect path quoting**  
   Paths with spaces must be wrapped in quotes, e.g. `"C:\Program Files"`.
@@ -82,10 +83,10 @@ Even experienced users run into common issues. Here are some frequent pitfalls:
   Some commands behave differently or use different parameter formats.
 
 - **Assuming commands work identically across versions**  
-  Windows 10 and Windows 11 sometimes differ in behaviour or available parameters.
+  Windows 10 and Windows 11 sometimes differ in the available parameters.
 
-- **Using outdated commands**  
-  Some legacy commands still work but are deprecated in favour of PowerShell equivalents.
+- **Can I use outdated commands?**  
+  Depends on the command chosen. Some legacy commands still work but are deprecated in favour of PowerShell equivalents.
 
 ## Documentation Approach
 
@@ -103,7 +104,7 @@ The emphasis is on clarity, accuracy, and practical value.
 ## FAQ
 
 **Is this project only for Windows 11?**  
-Yes. Many commands work on earlier versions, but the focus is Windows 11 behaviour.
+Basically yes. Many commands work on earlier versions, but the focus is Windows 11 behaviour.
 
 **Can I contribute new commands?**  
 Yes. Contributions are welcome as long as they follow the project’s style and accuracy standards.
@@ -112,7 +113,7 @@ Yes. Contributions are welcome as long as they follow the project’s style and 
 Only core Windows modules. Any third‑party modules are out of scope.
 
 **Is this an official Microsoft project?**  
-No. This is an independent documentation project maintained by TheM1ddleM1n
+No. This is an independent project maintained by TheM1ddleM1n
 
 ## Contribution Guide
 
