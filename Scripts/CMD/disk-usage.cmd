@@ -1,4 +1,4 @@
 @echo off
 echo === Disk Usage ===
-wmic logicaldisk get name, size, freespace
+wmic logicaldisk get caption,volumename,size,freespace /format:list
 pause
