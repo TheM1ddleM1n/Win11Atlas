@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/TheM1ddleM1n/Win11Atlas.svg)]()
 [![Last Commit](https://img.shields.io/github/last-commit/TheM1ddleM1n/Win11Atlas.svg)]()
 
-Win11Atlas is a comprehensive reference for Windows 11 command‑line tools, covering both Command Prompt and PowerShell. It provides clear explanations, syntax details, and practical examples to support developers, administrators, and technical users who rely on the Windows command‑line environment.
+Win11Atlas is a comprehensive reference for Windows 11 command‑line tools, covering both Command Prompt and PowerShell.
 
 ## Why This Project Exists
 
