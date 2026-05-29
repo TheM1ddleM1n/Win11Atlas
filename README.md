@@ -35,24 +35,19 @@ This reference is intended for:
 
 - Developers working with Windows‑based tooling  
 - System administrators managing Windows environments  
-- Students learning command‑line fundamentals  
+- Users/Students learning command‑line fundamentals  
 - Power users exploring Windows internals  
 - Anyone who needs dependable command‑line documentation  
 
 ## Installation and Usage Notes
 
-Win11Atlas does not require installation. It is a documentation‑only project and can be used directly from the repository.
+Win11Atlas does not require installation. It is a project that can be used directly from this repo.
 
 To use the reference:
 
 1. Browse the repository sections for CMD or PowerShell content.  
 2. Open any command entry to view syntax, examples, and notes.  
-3. Use the examples as a guide when working in Command Prompt or PowerShell.  
-
-Clone the repository for offline access:
-
-
-Any text editor or Markdown viewer can be used to read the documentation.
+3. Use the examples as a guide when working in Command Prompt or PowerShell.
 
 ## How to Read Command Syntax
 
@@ -70,7 +65,6 @@ Windows command syntax often uses symbols that indicate how parameters behave. U
 Example:
 
 `robocopy <source> <destination> [options]`
-
 
 This means `source` and `destination` are required, while `options` are optional.
 
