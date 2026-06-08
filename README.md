@@ -217,7 +217,7 @@ Yes. Contributions are welcome as long as they follow the project's style and ac
 Only core Windows modules are in scope. Third-party modules are out of scope.
 
 **Is this an official Microsoft project?**
-No. This is an independent project maintained by TheM1ddleM1n.
+No. This is an independent project maintained by TheM1ddleM1n
 
 ---
 
