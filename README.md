@@ -151,47 +151,6 @@ A: Verify you are running Windows 11 and that your PowerShell version is up to d
 
 ---
 
-## Contribution Guide
-
-Contributions are welcome. To maintain consistency and quality across the project, please follow the guidelines below.
-
-### Writing Style
-
-- Use clear, direct language
-- Keep explanations concise but technically accurate
-- Avoid unnecessary jargon unless it is standard terminology
-- Use consistent formatting for headings, code blocks, and examples
-
-### Content Requirements
-
-Each new command entry must include:
-
-- A short description of what the command does
-- Syntax with parameters explained
-- At least one practical example
-- Notes on behaviour, limitations, or common mistakes
-- Links to related commands where appropriate
-
-### Submitting Changes
-
-- Fork the repository
-- Create a new branch for your changes
-- Ensure your additions follow the existing style and structure
-- Submit a pull request with a clear explanation of what was changed and why
-
-### Review Process
-
-All submissions are reviewed for:
-
-- Technical accuracy
-- Clarity and readability
-- Consistency with existing documentation
-- Compliance with the project's scope
-
-Feedback may be provided before merging.
-
----
-
 ## Code of Conduct
 
 All contributors are expected to:
