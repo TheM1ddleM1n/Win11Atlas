@@ -167,10 +167,10 @@ Violations may result in removal of contributions or restriction from participat
 ## FAQ
 
 **Is this project only for Windows 11?**
-Primarily yes. Many commands work on earlier versions, but the documented behaviour targets Windows 11.
+Primarily yes. Many commands could work on Windows 10, but the documented behaviour targets Windows 11.
 
 **Can I contribute new commands?**
-Yes. Contributions are welcome as long as they follow the project's style and accuracy standards.
+Yes. Contributions are welcome **as long as they follow the project's style and accuracy standards.**
 
 **Will this project cover advanced PowerShell modules?**
 Only core Windows modules are in scope. Third-party modules are out of scope.
