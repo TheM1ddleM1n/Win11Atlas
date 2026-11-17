@@ -7,7 +7,7 @@ echo 1. Ping Test
 echo 2. Trace Route
 echo 3. Show ARP Table
 echo 4. Flush DNS Cache
-echo 5. Show Network Info
+echo 5. Show Network Information
 echo 6. Exit
 echo.
 choice /c 123456 /n /m "Select option: "
